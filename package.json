@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/confxsd/alchemy-uni#readme",
   "dependencies": {
+    "chai": "^4.3.7",
     "ethereum-cryptography": "^1.1.2"
   }
 }
