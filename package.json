@@ -1,0 +1,26 @@
+{
+  "name": "alchemy-uni",
+  "version": "0.0.1",
+  "description": "Alchemy University Puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/confxsd/alchemy-uni.git"
+  },
+  "keywords": [
+    "Cryptography",
+    "Web3"
+  ],
+  "author": "confxsd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/confxsd/alchemy-uni/issues"
+  },
+  "homepage": "https://github.com/confxsd/alchemy-uni#readme",
+  "dependencies": {
+    "ethereum-cryptography": "^1.1.2"
+  }
+}
